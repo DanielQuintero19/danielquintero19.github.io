@@ -314,6 +314,9 @@ main {
     .promocionInfo h1 {
         font-size: 5em;
     }
+    .promocionInfo img {
+        width: 40%;
+    }
     #hInicio {
         display: contents ;
     }
